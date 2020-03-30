@@ -7,15 +7,18 @@
 - Storing plain text phone numbers is never a good idea! Your algorithm should hash a phone number and only display the last 4 numbers. Everything else should become a `*`, the hyphens must remain in their respective places.
 - Feel free to use any methods you find useful!
 
-## Getting Started
+> i.e.:
+> input => `718-867-5309`
+> output => `***-***-5309`
 
-- Fork and Clone
-- `npm i`
-- `npm run test` or `npm test` and make sure the tests fail.
+### Getting Started
 
+- Fork and clone this repo.
+- `cd` into the repo directory
+- Run `bundle` from within the repo.
+- Run `rspec` in the root of the repo to make sure the tests work. (They should fail.)
+- Get hacking on the problem and test when you think you've got it!
 
-The objective of this problem is to assess your knowlegde of loops and formatting strings.
+### Notes
 
-Pull Requests Due By 11pm!
-
-Happy hacking!
+Pull requests due by 11pm. Happy hacking!
