@@ -1,4 +1,4 @@
-require_relative '../encrypt_phone.rb'
+require_relative '../encrypt_phone_number.rb'
 
 describe "encrypt_phone_number" do
 
